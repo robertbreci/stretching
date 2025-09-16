@@ -27,7 +27,7 @@ video_ids = [
     "5OnHd1ZMtik",
     "AxwGqbSfDhI",
     "37tBZS7-E9k",
-    "yKw9Pz0pE0c&t=3s",
+    "yKw9Pz0pE0c",
     "ZLFOUQZEWwk",
     "s9IB7Slo9KY",
     "QPa_xD7Kb1A"
