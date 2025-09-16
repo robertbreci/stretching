@@ -8,21 +8,23 @@ st.title("Stretching Videos")
 # Add your new functionality for Page 2 here
 # List of YouTube video IDs
 video_ids = [
-    "KFcnspwkyLA",  # Video 1
-    "Pd5ggr1bEqg",  # Video 2
-    "yJgLmCqmNCo",  # Video 3
-    "9wmWEaydbzk",  # Video 4
-    "Cng_VaXD-w0",  # Video 5
-    "00Ur64JL2ps",  # Video 6
-    "WhiL_aaEdr8",  # Video 7
-    "uPO-zST-7EE",  # Video 8
-    "a9WC_eLmP30",  # Video 9
-    "T9wBznkjcFM",  # Video 10
-    "-0k_URgPpLI",  # Video 11
-    "wC8gn-eqrDU",  # Video 12
-    "zfzcfwwFxEI",  # Video 13
-    "N9Ss6zm-Mg0",  # Video 14
-    "EbDoQG91kpI"   # Video 15
+    "KFcnspwkyLA",
+    "Pd5ggr1bEqg",
+    "yJgLmCqmNCo",
+    "9wmWEaydbzk",
+    "Cng_VaXD-w0",
+    "00Ur64JL2ps",
+    "WhiL_aaEdr8",
+    "uPO-zST-7EE",
+    "a9WC_eLmP30",
+    "T9wBznkjcFM",
+    "-0k_URgPpLI",
+    "wC8gn-eqrDU",
+    "zfzcfwwFxEI",
+    "N9Ss6zm-Mg0",
+    "EbDoQG91kpI",
+    "i-cVdyo7wWk",
+    "soSBOynX-VT64eZN"
 ]
 
 # Create a layout for videos: 3 videos per row
